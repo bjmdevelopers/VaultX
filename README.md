@@ -1,9 +1,6 @@
-# ---
-
 # **🔒 VaultX**  
 ### **Military-Grade File Encryption CLI**  
-
-![CLI Demo](https://img.shields.io/badge/DEMO-CLI%20Output-blue?style=flat-square)  
+ 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&style=flat-square)  
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)  
 
