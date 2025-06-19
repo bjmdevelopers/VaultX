@@ -1,4 +1,4 @@
-# **🔒 VaultX**  
+# **🔒 VaultX-Secure Vault**  
 ### **Military-Grade File Encryption CLI**  
  
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&style=flat-square)  
